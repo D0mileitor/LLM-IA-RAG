@@ -1,4 +1,4 @@
-**📄 TAV LLM - Documentos e Ferramentas de Integração**
+**📄 LLM - Documentos e Ferramentas de Integração**
 
 Este repositório contém dois módulos principais desenvolvidos em Python que integram ferramentas de processamento de linguagem natural (LLM) e geração de fluxogramas visuais. Estas ferramentas foram projetadas para criar uma interface robusta e interativa com análise de documentos e geração de respostas formatadas.
 
